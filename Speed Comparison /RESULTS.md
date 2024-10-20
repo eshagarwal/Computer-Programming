@@ -6,6 +6,6 @@
 
 ![Picture](./speed_comparison_cpp.png)
 
-#### Time taken in Python **41.71s** [code](./python/count_up.py)
+#### Time taken in Python **41.71s** [code](../Python/speed_comparison.py)
 
 ![Picture](./speed_comparison_py.png)
