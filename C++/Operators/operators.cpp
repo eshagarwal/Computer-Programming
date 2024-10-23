@@ -22,5 +22,17 @@ int main()
     // expression-2
     cout << "25 / 6: " << 25 / 6 << endl;
 
+    // expression-3
+    int n1, n2;
+
+    cout << "Enter number 1 ";
+    cin >> n1;
+    cout << endl;
+
+    cout << "Enter number 2: ";
+    cin >> n2;
+
+    cout << "n1(" << n1 << ") > " << "n2(" << n2 << ") = " << (n1 > n2) << endl;
+
     return 0;
 }
