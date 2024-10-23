@@ -43,7 +43,7 @@ int main()
     cout << "x: " << x << " x++: " << y << endl;
 
     // expression-6
-    cout << "Ternary Operator: (bool ? true_output : false_output) (9 > 7 ? cool : woah) " << (9 > 7 ? "cool" : "woah") << endl;
+    cout << "Ternary Operator: (bool ? true_output : false_output) (9 > 7 ? true : false) " << (9 > 7 ? "true" : "false") << endl;
 
     return 0;
 }
