@@ -19,5 +19,8 @@ int main()
     // expression-1
     cout << "4 + 5 * 6 - 1 = " << 4 + 5 * 6 - 1 << endl;
 
+    // expression-2
+    cout << "25 / 6: " << 25 / 6 << endl;
+
     return 0;
 }
