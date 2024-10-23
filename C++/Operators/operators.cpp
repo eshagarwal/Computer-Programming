@@ -37,6 +37,10 @@ int main()
     // expression-4
     cout << "n1(" << n1 << ") < " << "n2(" << n2 << ") = " << (n1 < n2) << endl;
 
+    // expression-5
+    int x = 9;
+    int y = x++;
+    cout << "x: " << x << " x++: " << y << endl;
 
     return 0;
 }
